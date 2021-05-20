@@ -1,0 +1,17 @@
+{
+    "FURNACE.SPLIT.title": "Dividir Diário",
+    "FURNACE.SPLIT.splitSubmit": "Dividir Diário",
+    "FURNACE.SPLIT.contextMenu": "Dividir Diário",
+    "FURNACE.SPLIT.description": "Divida a entrada de diário '{nome}' em várias partes.",
+    "FURNACE.SPLIT.splitOn": "Dividir em",
+    "FURNACE.SPLIT.newEntries": "Novas entradas de diário ({numEntries}) :",
+    "FURNACE.SPLIT.separateHeader": "Incluir o cabeçalho da página em cada nova entrada de diário",
+    "FURNACE.SPLIT.includeImage": "Incluir imagem do diário em cada nova entrada",
+    "FURNACE.SPLIT.newFolder": "Dividir em uma Nova Pasta",
+    "FURNACE.SPLIT.errorNoHeadings": "<strong>Esta entrada de diário não tinha títulos.</strong> <p>Crie títulos em seu diário e tente novamente</p>",
+    "FURNACE.SPLIT.errorJournalEmpty": "<strong>Esta entrada do diário está vazia.</strong><p>Não há nada para dividir</p>",
+    "FURNACE.SPLIT.errorOk": "OK",
+
+    "FURNACE.ENTITIES.sortAscending": "Classificar em ordem alfabética (crescente)",
+    "FURNACE.ENTITIES.sortDescending": "Classificar em ordem alfabética (decrescente)"
+}
