@@ -8,7 +8,7 @@
   "flags": {},
   "version": "1.0.0",
   "minimumCoreVersion": "0.8.4",
-  "compatibleCoreVersion": "0.8.4",
+  "compatibleCoreVersion": "0.8.6",
   "scripts": [
     "libs/split-html.js",
     "Entities.js"
