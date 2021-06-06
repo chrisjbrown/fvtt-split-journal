@@ -1,4 +1,5 @@
 # Split Journal
+![Split Journal](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FLeague-of-Foundry-Developers%2Fleague-repo-status%2Fshields-endpoint%2Fsplit-journal.json)
 
 If you have a journal entry with a lot of room descriptions and you want to split it into smaller journal entries, you can right click on it and select the "Split Journal" option. It will let you choose which heading to split it at then do the split for you.
 
