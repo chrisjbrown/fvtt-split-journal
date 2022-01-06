@@ -161,7 +161,7 @@ class FurnaceSplitJournal extends FormApplication {
             callback: header => {
                 let entityId = header.attr("data-entity-id");
                 // newer versions of foundry does not have "data-entity-id" instead use "data-document-id" as they are equivalent.
-                if(!entityId) entityId = header.attr("data-document-id"); 
+                if(typeof entityId !== "undefined") entityId = header.attr("data-document-id"); 
                 let entity = game.journal.get(entityId);
                 new FurnaceSplitJournal(entity).render(true);
 
