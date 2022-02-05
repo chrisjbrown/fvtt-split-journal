@@ -4,7 +4,7 @@
   "description": "Split journal entries into multiple entries.",
   "author": "KaKaRoTo",
   "authors": [],
-  "url": "https://github.com/League-of-Foundry-Developers/fvtt-split-journal",
+  "url": "https://github.com/chrisjbrown/fvtt-split-journal",
   "flags": {},
   "version": "1.2.0",
   "minimumCoreVersion": "0.8.4",
@@ -36,8 +36,8 @@
   "system": [],
   "dependencies": [],
   "socket": true,
-  "manifest": "https://github.com/League-of-Foundry-Developers/fvtt-split-journal/releases/latest/download/module.json",
-  "download": "https://github.com/League-of-Foundry-Developers/fvtt-split-journal/releases/latest/download/module.zip",
+  "manifest": "https://github.com/chrisjbrown/fvtt-split-journal/releases/latest/download/module.json",
+  "download": "https://github.com/chrisjbrown/fvtt-split-journal/releases/latest/download/module.zip",
   "protected": false,
   "coreTranslation": false
 }
